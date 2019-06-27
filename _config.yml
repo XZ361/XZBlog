@@ -7,7 +7,7 @@ description: "Stay Hungry , Stay foolish."
 keyword: "XZ, XZ Blog, 小站的博客, 王小站, wangxiaozhan, 前端, javascript, Node"
 url: "http://wangxiaozhan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -66,8 +66,9 @@ gitalk:
   clientSecret: 9f746c6da6fe7afc3ae3cb98bd98025f0103d15b    #生成的clientSecret
   repo: wangxiaozhan.github.io    #仓库名称
   owner: wangxiaozhan    #github用户名
-  admin: wangxiaozhn
+  admin: wangxiaozhan
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  id: 'window.location.pathname'
 
 
 # 统计
