@@ -7,7 +7,7 @@ description: "Stay Hungry , Stay foolish."
 keyword: "XZ, XZ Blog, 小站的博客, 王小站, wangxiaozhan, 前端, javascript, Node"
 url: "http://wangxiaozhan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "" # you code repository
+github_repo: "wangxiaozhan.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
