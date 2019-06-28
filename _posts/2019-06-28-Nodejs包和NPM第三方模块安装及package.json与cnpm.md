@@ -35,6 +35,8 @@ Nodejs中**第三方模块**由包组成，可以通过包来对一组具有相�
 - lib :用于存放**JavaScript**代码的目录。
 - doc :用于存放文档的目录。在NodeJs中通过NPM命令来下载第三方的模块（包）。
 
+在NodeJs中通过NPM命令来下载第三方的模块（包）
+
 <https://www.npmjs.com/package/silly-datetime>
 
     npm i silly-datetime –save
