@@ -126,9 +126,11 @@ npm是世界上*最大的开放源代码* 的生态系统。我们可以通过np
 ### 4. dependencies 与 devDependencies 之间的区别 ?
 
 使用npm installnode_ module –save自动更新depende ncies字段值;
+
 使用npm installnode_ module –save-dev自动更新devDependenc ies字段值;
 
 dependencie   配置当前程序所依赖的其他包。
+
 devDependencie   配置当前程序所依赖的其他包，只会下载模块，而不下载这些模块的`测试`和文档框架
 
     "dependencie s": {
@@ -136,8 +138,11 @@ devDependencie   配置当前程序所依赖的其他包，只会下载模块，
         "express": "^4.13.3",
         "formidable": "^1.0.17"
     }
+
 ^表示第一位版本号不变，后面两位取最新的
+
 ~表示前两位不变，最后一个取最新
+
 *表示全部取最新
 
 ## 四、安装淘宝镜像
