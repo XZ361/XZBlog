@@ -28,6 +28,8 @@ Nodejs中除了它自己提供的**核心模块**外，我们可以*自定义模
 
 Nodejs中**第三方模块**由包组成，可以通过包来对一组具有相互依赖关系的模块进行统一管理。
 
+![](http://tva1.sinaimg.cn/large/0060lm7Tly1g4i09c8rpnj30fa08hq2z.jpg)
+
 完全符合CommonJs规范的包目录一般包含如下这些文件。
 
 - package.json :包描述文件。
