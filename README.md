@@ -1,6 +1,6 @@
-这是我的个人博客
+我的博客
 ===
-[地址] https://wangxiaozhan.github.io<br>
+[预览链接](https://xz361.github.io/wangxiaozhan.github.io/)
 
 
  
